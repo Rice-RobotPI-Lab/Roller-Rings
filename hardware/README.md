@@ -7,4 +7,4 @@ Roller Ring Hardware
 - Other filaments can be utilized as long as the material properties are comparable to the aforementioned filaments 
 - In the event of using different printers, some light sanding may be required to ensure component can be installed.
 
-For further questions and inquiries regarding the software detailed here, please contact [Hayden Webb](https://webbhayden.com/).
+For further questions and inquiries regarding the hardware detailed here, please contact [Hayden Webb](https://webbhayden.com/).
